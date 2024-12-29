@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain_experimental
+langchain-openai
+openai
+streamlit
+tiktoken
+python-dotenv
+pinecone-client
+pypdf
+joblib
+pandas
+scikit-learn
+sentence-transformers
+
+-e .
